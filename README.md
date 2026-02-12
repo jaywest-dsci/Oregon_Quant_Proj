@@ -1,2 +1,2 @@
 # Oregon_Quant_Proj
-porject for oregon quant group
+project for oregon quant group
